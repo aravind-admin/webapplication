@@ -9,6 +9,6 @@ body {
 <body style="background-color:gray">
 <h2>Hello</h2>
 <h2>Welcome to my World</h2>
-<h1 style="color:white;font-variant:small-caps">GOOD MORNING NEWYORK</h1>
+<h1 style="color:white;font-variant:small-caps">GOOD MORNING</h1>
 </body>
 </html>
